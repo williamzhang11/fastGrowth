@@ -21,12 +21,8 @@
 
 |篇章|
 | :------ |
-| [大佬篇](src/main/java/com/xiu/fastGrowth/mogul/README.MD)|
-| [方法论篇](src/main/java/com/xiu/fastGrowth/methodologies/README.MD)|
-| [产品篇](src/main/java/com/xiu/fastGrowth/product/README.MD)|
-| [心态篇](src/main/java/com/xiu/fastGrowth/mentality/README.MD)|
-| [学习力篇](src/main/java/com/xiu/fastGrowth/study/README.MD)|
-| [领导力篇](src/main/java/com/xiu/fastGrowth/leader/README.MD)|
+| [如何成为1个技术leader](src/main/java/com/xiu/fastGrowth/leader)|
+
 
 
 	

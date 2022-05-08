@@ -23,6 +23,8 @@
 | :------ |
 | [如何成为1个技术leader](src/main/java/com/xiu/fastGrowth/leader)|
 | [微服务如何拆分](src/main/java/com/xiu/fastGrowth/mircoservicesplit)|
+| [软件架构如何拆分](src/main/java/com/xiu/fastGrowth/mircoservicesplit)|
+| [软件架构](src/main/java/com/xiu/fastGrowth/softwarearchitecture)|
 
 
 
